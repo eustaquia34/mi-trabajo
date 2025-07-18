@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<alumno>
+		<dni>129845609</dni>
+		<nombre>Henry</nombre>
+		<apellido>Taype</apellido>
+		<edad>20</edad>
+	</alumno>
+	<alumno>
+		<dni>129845608</dni>
+		<nombre>Edson</nombre>
+		<apellido>Quispe</apellido>
+		<edad>23</edad>
+	</alumno>
+	<alumno>
+		<dni>129845607</dni>
+		<nombre>Franklin</nombre>
+		<apellido>Condori</apellido>
+		<edad>20</edad>
+	</alumno>
+	<alumno>
+		<dni>129845606</dni>
+		<nombre>Rata</nombre>
+		<apellido>Dienton</apellido>
+		<edad>20</edad>
+	</alumno>
+</alumnos>

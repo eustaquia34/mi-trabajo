@@ -1,0 +1,29 @@
+{
+    
+    "docente": [
+        {
+            "dni": "25417800",
+            "nombre": "Rony",
+            "apellido": "Bolañoz",
+            "curso":"20"
+        },
+        {
+            "dni": "25417801",
+            "nombre": "Alfredo",
+            "apellido": "Cari",
+            "curso":"20"
+        },
+        {
+            "dni": "25417803",
+            "nombre": "Javier",
+            "apellido": "Olvea",
+            "curso":"20" 
+        },
+        {
+            "dni": "25417812",
+            "nombre": "Juan Carlos",
+            "apellido": "Quirita",
+            "curso":"20" 
+        }
+    ]
+}
